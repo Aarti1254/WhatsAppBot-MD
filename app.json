@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "17053200517"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -36,7 +36,7 @@
 	"STICKER_PACK": {
             "description": "Sticker pack & author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ,ＡＬＦＡ"
+            "value": "🇮 🅰🅜 Ṿëëṛ,🇮 🅰🅜 Ṿëëṛ"
         }, 
     "URLBUTTON1": {
             "description": "URL Button Name and link (leave it if you Wish to use the default:Instagram)",
@@ -71,7 +71,7 @@
     "SUDO": {
             "description": "Add superuser to this bot",
             "required": false,
-            "value": "0,447405935255"
+            "value": "17053200517"
         }, 
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
@@ -81,12 +81,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "🇮 🅰🅜 Ṿëëṛ"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "🇮 🅰🅜 Ṿëëṛ"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -96,12 +96,12 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "pradeepkumawat574@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://youtube.com/c/djpradeepkumawat"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
@@ -111,17 +111,17 @@
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://www.instagram.com/itspradeep_kmt/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "🇮 🅰🅜 Ṿëëṛ"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "🇮 🅰🅜 Ṿëëṛ"
         },
     "HEROKU_APP_NAME": {
             "description": "Heroku App name to manage the worker (you canot use restart if u dont fill thsi and HEROKU_API)",
